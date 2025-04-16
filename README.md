@@ -18,7 +18,7 @@ The errors were manually designed and introduced to simulate data quality issues
 ## 📁 Files
 
 - `data_for_clean.xlsx`: Synthetic dataset with artificial errors
-- `prompts.docx`: Prompt templates used for ChatGPT-4o
+- `prompts.docx`: Prompts used for data cleaning
   
 [data_for_clean.xlsx](https://github.com/user-attachments/files/19777956/data_for_clean.xlsx)
 
